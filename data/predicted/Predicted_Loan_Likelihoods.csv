@@ -1,0 +1,2001 @@
+Client ID,Uptake Rate,Likelihood Category
+10001,0.197,Very Low Likelihood
+10002,0.109,Very Low Likelihood
+10003,1.298,Very Low Likelihood
+10004,1.401,Very Low Likelihood
+10005,0.277,Very Low Likelihood
+10006,14.517,Very Low Likelihood
+10007,0.159,Very Low Likelihood
+10008,2.76,Very Low Likelihood
+10009,0.287,Very Low Likelihood
+10010,2.236,Very Low Likelihood
+10011,1.326,Very Low Likelihood
+10012,1.028,Very Low Likelihood
+10013,1.985,Very Low Likelihood
+10014,0.161,Very Low Likelihood
+10015,0.158,Very Low Likelihood
+10016,0.124,Very Low Likelihood
+10017,0.14,Very Low Likelihood
+10018,0.178,Very Low Likelihood
+10019,0.343,Very Low Likelihood
+10020,0.635,Very Low Likelihood
+10021,19.325,Very Low Likelihood
+10022,0.289,Very Low Likelihood
+10023,0.344,Very Low Likelihood
+10024,0.354,Very Low Likelihood
+10025,0.183,Very Low Likelihood
+10026,0.263,Very Low Likelihood
+10027,1.664,Very Low Likelihood
+10028,0.163,Very Low Likelihood
+10029,0.145,Very Low Likelihood
+10030,0.159,Very Low Likelihood
+10031,0.458,Very Low Likelihood
+10032,6.611,Very Low Likelihood
+10033,0.102,Very Low Likelihood
+10034,0.122,Very Low Likelihood
+10035,0.689,Very Low Likelihood
+10036,0.177,Very Low Likelihood
+10037,0.158,Very Low Likelihood
+10038,1.65,Very Low Likelihood
+10039,14.223,Very Low Likelihood
+10040,8.216,Very Low Likelihood
+10041,85.574,Very High Likelihood
+10042,33.681,Low Likelihood
+10043,0.503,Very Low Likelihood
+10044,21.668,Very Low Likelihood
+10045,60.236,Medium Likelihood
+10046,60.07,Medium Likelihood
+10047,14.798,Very Low Likelihood
+10048,56.973,Medium Likelihood
+10049,2.885,Very Low Likelihood
+10050,1.519,Very Low Likelihood
+10051,46.872,Low Likelihood
+10052,0.697,Very Low Likelihood
+10053,31.538,Low Likelihood
+10054,0.607,Very Low Likelihood
+10055,0.319,Very Low Likelihood
+10056,1.071,Very Low Likelihood
+10057,56.962,Medium Likelihood
+10058,4.355,Very Low Likelihood
+10059,0.616,Very Low Likelihood
+10060,44.82,Low Likelihood
+10061,95.35,Very High Likelihood
+10062,1.294,Very Low Likelihood
+10063,3.427,Very Low Likelihood
+10064,43.944,Low Likelihood
+10065,87.959,Very High Likelihood
+10066,0.792,Very Low Likelihood
+10067,15.712,Very Low Likelihood
+10068,56.975,Medium Likelihood
+10069,79.454,High Likelihood
+10070,39.16,Low Likelihood
+10071,0.231,Very Low Likelihood
+10072,1.935,Very Low Likelihood
+10073,7.683,Very Low Likelihood
+10074,4.44,Very Low Likelihood
+10075,0.238,Very Low Likelihood
+10076,1.44,Very Low Likelihood
+10077,41.113,Low Likelihood
+10078,12.39,Very Low Likelihood
+10079,1.852,Very Low Likelihood
+10080,0.819,Very Low Likelihood
+10081,90.961,Very High Likelihood
+10082,3.216,Very Low Likelihood
+10083,0.381,Very Low Likelihood
+10084,1.517,Very Low Likelihood
+10085,2.283,Very Low Likelihood
+10086,0.33,Very Low Likelihood
+10087,50.355,Medium Likelihood
+10088,43.283,Low Likelihood
+10089,67.751,Medium Likelihood
+10090,12.814,Very Low Likelihood
+10091,33.975,Low Likelihood
+10092,0.585,Very Low Likelihood
+10093,19.728,Very Low Likelihood
+10094,9.726,Very Low Likelihood
+10095,21.705,Very Low Likelihood
+10096,46.475,Low Likelihood
+10097,93.366,Very High Likelihood
+10098,74.847,High Likelihood
+10099,2.189,Very Low Likelihood
+10100,0.34,Very Low Likelihood
+10101,3.061,Very Low Likelihood
+10102,0.427,Very Low Likelihood
+10103,26.148,Low Likelihood
+10104,16.855,Very Low Likelihood
+10105,15.569,Very Low Likelihood
+10106,0.231,Very Low Likelihood
+10107,22.965,Very Low Likelihood
+10108,88.532,Very High Likelihood
+10109,99.917,Very High Likelihood
+10110,9.695,Very Low Likelihood
+10111,62.29,Medium Likelihood
+10112,81.993,High Likelihood
+10113,99.108,Very High Likelihood
+10114,6.736,Very Low Likelihood
+10115,81.833,High Likelihood
+10116,71.833,High Likelihood
+10117,99.199,Very High Likelihood
+10118,10.737,Very Low Likelihood
+10119,84.357,High Likelihood
+10120,15.402,Very Low Likelihood
+10121,17.678,Very Low Likelihood
+10122,47.417,Low Likelihood
+10123,74.409,High Likelihood
+10124,1.236,Very Low Likelihood
+10125,99.655,Very High Likelihood
+10126,1.567,Very Low Likelihood
+10127,5.744,Very Low Likelihood
+10128,59.84,Medium Likelihood
+10129,88.247,Very High Likelihood
+10130,18.612,Very Low Likelihood
+10131,84.284,High Likelihood
+10132,10.598,Very Low Likelihood
+10133,99.683,Very High Likelihood
+10134,11.684,Very Low Likelihood
+10135,5.066,Very Low Likelihood
+10136,21.093,Very Low Likelihood
+10137,99.865,Very High Likelihood
+10138,4.58,Very Low Likelihood
+10139,88.893,Very High Likelihood
+10140,65.953,Medium Likelihood
+10141,99.752,Very High Likelihood
+10142,62.552,Medium Likelihood
+10143,60.263,Medium Likelihood
+10144,48.425,Low Likelihood
+10145,9.293,Very Low Likelihood
+10146,90.413,Very High Likelihood
+10147,16.554,Very Low Likelihood
+10148,0.182,Very Low Likelihood
+10149,6.196,Very Low Likelihood
+10150,9.724,Very Low Likelihood
+10151,69.92,Medium Likelihood
+10152,2.82,Very Low Likelihood
+10153,98.979,Very High Likelihood
+10154,13.037,Very Low Likelihood
+10155,4.383,Very Low Likelihood
+10156,83.326,High Likelihood
+10157,99.097,Very High Likelihood
+10158,18.525,Very Low Likelihood
+10159,92.794,Very High Likelihood
+10160,77.219,High Likelihood
+10161,10.161,Very Low Likelihood
+10162,92.542,Very High Likelihood
+10163,86.475,Very High Likelihood
+10164,5.768,Very Low Likelihood
+10165,81.276,High Likelihood
+10166,17.759,Very Low Likelihood
+10167,17.511,Very Low Likelihood
+10168,89.34,Very High Likelihood
+10169,93.387,Very High Likelihood
+10170,0.761,Very Low Likelihood
+10171,0.804,Very Low Likelihood
+10172,1.158,Very Low Likelihood
+10173,33.835,Low Likelihood
+10174,37.053,Low Likelihood
+10175,0.235,Very Low Likelihood
+10176,98.125,Very High Likelihood
+10177,99.026,Very High Likelihood
+10178,92.053,Very High Likelihood
+10179,1.766,Very Low Likelihood
+10180,97.268,Very High Likelihood
+10181,83.858,High Likelihood
+10182,91.684,Very High Likelihood
+10183,49.664,Low Likelihood
+10184,6.73,Very Low Likelihood
+10185,60.016,Medium Likelihood
+10186,87.971,Very High Likelihood
+10187,68.604,Medium Likelihood
+10188,1.097,Very Low Likelihood
+10189,99.447,Very High Likelihood
+10190,2.076,Very Low Likelihood
+10191,9.946,Very Low Likelihood
+10192,83.262,High Likelihood
+10193,83.456,High Likelihood
+10194,97.103,Very High Likelihood
+10195,94.038,Very High Likelihood
+10196,31.605,Low Likelihood
+10197,84.447,High Likelihood
+10198,1.242,Very Low Likelihood
+10199,41.023,Low Likelihood
+10200,75.789,High Likelihood
+10201,97.934,Very High Likelihood
+10202,0.972,Very Low Likelihood
+10203,84.794,High Likelihood
+10204,23.159,Very Low Likelihood
+10205,91.349,Very High Likelihood
+10206,70.809,High Likelihood
+10207,84.907,High Likelihood
+10208,74.897,High Likelihood
+10209,74.059,High Likelihood
+10210,83.015,High Likelihood
+10211,7.478,Very Low Likelihood
+10212,88.353,Very High Likelihood
+10213,99.812,Very High Likelihood
+10214,0.576,Very Low Likelihood
+10215,82.182,High Likelihood
+10216,7.924,Very Low Likelihood
+10217,76.363,High Likelihood
+10218,69.365,Medium Likelihood
+10219,95.126,Very High Likelihood
+10220,19.925,Very Low Likelihood
+10221,39.103,Low Likelihood
+10222,7.806,Very Low Likelihood
+10223,2.266,Very Low Likelihood
+10224,91.109,Very High Likelihood
+10225,98.929,Very High Likelihood
+10226,82.799,High Likelihood
+10227,31.28,Low Likelihood
+10228,80.086,High Likelihood
+10229,95.285,Very High Likelihood
+10230,19.563,Very Low Likelihood
+10231,67.874,Medium Likelihood
+10232,94.488,Very High Likelihood
+10233,99.171,Very High Likelihood
+10234,63.395,Medium Likelihood
+10235,91.6,Very High Likelihood
+10236,78.255,High Likelihood
+10237,34.84,Low Likelihood
+10238,0.259,Very Low Likelihood
+10239,86.716,Very High Likelihood
+10240,39.936,Low Likelihood
+10241,79.597,High Likelihood
+10242,8.381,Very Low Likelihood
+10243,83.491,High Likelihood
+10244,47.503,Low Likelihood
+10245,4.038,Very Low Likelihood
+10246,6.644,Very Low Likelihood
+10247,0.92,Very Low Likelihood
+10248,1.496,Very Low Likelihood
+10249,93.067,Very High Likelihood
+10250,70.273,High Likelihood
+10251,1.051,Very Low Likelihood
+10252,1.734,Very Low Likelihood
+10253,98.189,Very High Likelihood
+10254,96.517,Very High Likelihood
+10255,7.104,Very Low Likelihood
+10256,73.413,High Likelihood
+10257,43.697,Low Likelihood
+10258,68.466,Medium Likelihood
+10259,29.176,Low Likelihood
+10260,80.388,High Likelihood
+10261,98.178,Very High Likelihood
+10262,3.254,Very Low Likelihood
+10263,0.376,Very Low Likelihood
+10264,8.775,Very Low Likelihood
+10265,84.938,High Likelihood
+10266,89.253,Very High Likelihood
+10267,50.555,Medium Likelihood
+10268,95.963,Very High Likelihood
+10269,99.891,Very High Likelihood
+10270,35.316,Low Likelihood
+10271,98.331,Very High Likelihood
+10272,7.459,Very Low Likelihood
+10273,45.935,Low Likelihood
+10274,51.127,Medium Likelihood
+10275,7.175,Very Low Likelihood
+10276,14.607,Very Low Likelihood
+10277,83.89,High Likelihood
+10278,1.216,Very Low Likelihood
+10279,9.694,Very Low Likelihood
+10280,96.501,Very High Likelihood
+10281,43.075,Low Likelihood
+10282,77.393,High Likelihood
+10283,1.424,Very Low Likelihood
+10284,88.05,Very High Likelihood
+10285,99.855,Very High Likelihood
+10286,54.693,Medium Likelihood
+10287,21.814,Very Low Likelihood
+10288,7.459,Very Low Likelihood
+10289,12.721,Very Low Likelihood
+10290,14.59,Very Low Likelihood
+10291,97.808,Very High Likelihood
+10292,90.252,Very High Likelihood
+10293,97.805,Very High Likelihood
+10294,86.012,Very High Likelihood
+10295,33.404,Low Likelihood
+10296,5.009,Very Low Likelihood
+10297,77.159,High Likelihood
+10298,54.264,Medium Likelihood
+10299,94.871,Very High Likelihood
+10300,1.023,Very Low Likelihood
+10301,5.852,Very Low Likelihood
+10302,13.906,Very Low Likelihood
+10303,91.991,Very High Likelihood
+10304,77.952,High Likelihood
+10305,99.43,Very High Likelihood
+10306,97.706,Very High Likelihood
+10307,14.703,Very Low Likelihood
+10308,87.4,Very High Likelihood
+10309,90.796,Very High Likelihood
+10310,2.645,Very Low Likelihood
+10311,44.021,Low Likelihood
+10312,54.585,Medium Likelihood
+10313,98.162,Very High Likelihood
+10314,5.766,Very Low Likelihood
+10315,40.685,Low Likelihood
+10316,17.169,Very Low Likelihood
+10317,97.754,Very High Likelihood
+10318,97.654,Very High Likelihood
+10319,55.332,Medium Likelihood
+10320,2.346,Very Low Likelihood
+10321,99.165,Very High Likelihood
+10322,0.965,Very Low Likelihood
+10323,46.886,Low Likelihood
+10324,3.055,Very Low Likelihood
+10325,25.791,Low Likelihood
+10326,89.929,Very High Likelihood
+10327,10.472,Very Low Likelihood
+10328,7.396,Very Low Likelihood
+10329,94.198,Very High Likelihood
+10330,14.574,Very Low Likelihood
+10331,28.579,Low Likelihood
+10332,0.782,Very Low Likelihood
+10333,45.476,Low Likelihood
+10334,3.384,Very Low Likelihood
+10335,92.253,Very High Likelihood
+10336,9.37,Very Low Likelihood
+10337,92.138,Very High Likelihood
+10338,97.284,Very High Likelihood
+10339,96.062,Very High Likelihood
+10340,26.964,Low Likelihood
+10341,87.797,Very High Likelihood
+10342,89.627,Very High Likelihood
+10343,1.996,Very Low Likelihood
+10344,2.333,Very Low Likelihood
+10345,59.753,Medium Likelihood
+10346,0.356,Very Low Likelihood
+10347,0.622,Very Low Likelihood
+10348,96.619,Very High Likelihood
+10349,68.11,Medium Likelihood
+10350,1.599,Very Low Likelihood
+10351,69.506,Medium Likelihood
+10352,49.742,Low Likelihood
+10353,77.135,High Likelihood
+10354,34.672,Low Likelihood
+10355,53.341,Medium Likelihood
+10356,69.902,Medium Likelihood
+10357,38.71,Low Likelihood
+10358,23.912,Very Low Likelihood
+10359,5.256,Very Low Likelihood
+10360,57.929,Medium Likelihood
+10361,91.859,Very High Likelihood
+10362,32.421,Low Likelihood
+10363,85.199,Very High Likelihood
+10364,4.75,Very Low Likelihood
+10365,99.583,Very High Likelihood
+10366,97.52,Very High Likelihood
+10367,97.265,Very High Likelihood
+10368,8.369,Very Low Likelihood
+10369,44.647,Low Likelihood
+10370,1.024,Very Low Likelihood
+10371,3.14,Very Low Likelihood
+10372,70.109,High Likelihood
+10373,87.039,Very High Likelihood
+10374,4.733,Very Low Likelihood
+10375,3.1,Very Low Likelihood
+10376,3.527,Very Low Likelihood
+10377,98.393,Very High Likelihood
+10378,17.013,Very Low Likelihood
+10379,8.171,Very Low Likelihood
+10380,94.756,Very High Likelihood
+10381,41.368,Low Likelihood
+10382,61.187,Medium Likelihood
+10383,1.145,Very Low Likelihood
+10384,3.937,Very Low Likelihood
+10385,99.782,Very High Likelihood
+10386,23.969,Very Low Likelihood
+10387,98.23,Very High Likelihood
+10388,5.622,Very Low Likelihood
+10389,99.126,Very High Likelihood
+10390,69.079,Medium Likelihood
+10391,1.917,Very Low Likelihood
+10392,1.365,Very Low Likelihood
+10393,97.491,Very High Likelihood
+10394,2.261,Very Low Likelihood
+10395,47.914,Low Likelihood
+10396,4.296,Very Low Likelihood
+10397,94.2,Very High Likelihood
+10398,37.398,Low Likelihood
+10399,16.338,Very Low Likelihood
+10400,99.166,Very High Likelihood
+10401,12.53,Very Low Likelihood
+10402,98.274,Very High Likelihood
+10403,2.826,Very Low Likelihood
+10404,29.643,Low Likelihood
+10405,99.696,Very High Likelihood
+10406,96.363,Very High Likelihood
+10407,86.5,Very High Likelihood
+10408,90.65,Very High Likelihood
+10409,72.116,High Likelihood
+10410,92.107,Very High Likelihood
+10411,8.929,Very Low Likelihood
+10412,30.568,Low Likelihood
+10413,17.373,Very Low Likelihood
+10414,64.571,Medium Likelihood
+10415,74.501,High Likelihood
+10416,44.185,Low Likelihood
+10417,10.146,Very Low Likelihood
+10418,2.73,Very Low Likelihood
+10419,85.202,Very High Likelihood
+10420,79.363,High Likelihood
+10421,96.424,Very High Likelihood
+10422,87.096,Very High Likelihood
+10423,10.053,Very Low Likelihood
+10424,13.466,Very Low Likelihood
+10425,81.391,High Likelihood
+10426,31.699,Low Likelihood
+10427,97.449,Very High Likelihood
+10428,89.98,Very High Likelihood
+10429,17.899,Very Low Likelihood
+10430,59.638,Medium Likelihood
+10431,7.127,Very Low Likelihood
+10432,3.028,Very Low Likelihood
+10433,24.67,Very Low Likelihood
+10434,43.038,Low Likelihood
+10435,2.855,Very Low Likelihood
+10436,18.614,Very Low Likelihood
+10437,85.603,Very High Likelihood
+10438,7.096,Very Low Likelihood
+10439,13.122,Very Low Likelihood
+10440,47.433,Low Likelihood
+10441,88.871,Very High Likelihood
+10442,72.379,High Likelihood
+10443,62.382,Medium Likelihood
+10444,2.514,Very Low Likelihood
+10445,93.325,Very High Likelihood
+10446,33.306,Low Likelihood
+10447,78.567,High Likelihood
+10448,90.181,Very High Likelihood
+10449,18.302,Very Low Likelihood
+10450,46.104,Low Likelihood
+10451,23.647,Very Low Likelihood
+10452,32.394,Low Likelihood
+10453,90.856,Very High Likelihood
+10454,64.81,Medium Likelihood
+10455,13.866,Very Low Likelihood
+10456,95.907,Very High Likelihood
+10457,93.847,Very High Likelihood
+10458,6.946,Very Low Likelihood
+10459,70.412,High Likelihood
+10460,8.186,Very Low Likelihood
+10461,61.744,Medium Likelihood
+10462,0.398,Very Low Likelihood
+10463,0.155,Very Low Likelihood
+10464,0.22,Very Low Likelihood
+10465,0.853,Very Low Likelihood
+10466,92.008,Very High Likelihood
+10467,0.19,Very Low Likelihood
+10468,45.512,Low Likelihood
+10469,0.189,Very Low Likelihood
+10470,1.381,Very Low Likelihood
+10471,0.185,Very Low Likelihood
+10472,0.154,Very Low Likelihood
+10473,2.085,Very Low Likelihood
+10474,0.651,Very Low Likelihood
+10475,27.893,Low Likelihood
+10476,1.647,Very Low Likelihood
+10477,28.567,Low Likelihood
+10478,92.807,Very High Likelihood
+10479,1.974,Very Low Likelihood
+10480,22.417,Very Low Likelihood
+10481,2.835,Very Low Likelihood
+10482,1.253,Very Low Likelihood
+10483,0.081,Very Low Likelihood
+10484,14.382,Very Low Likelihood
+10485,12.051,Very Low Likelihood
+10486,4.222,Very Low Likelihood
+10487,0.129,Very Low Likelihood
+10488,0.087,Very Low Likelihood
+10489,0.168,Very Low Likelihood
+10490,45.426,Low Likelihood
+10491,0.172,Very Low Likelihood
+10492,0.851,Very Low Likelihood
+10493,0.511,Very Low Likelihood
+10494,3.912,Very Low Likelihood
+10495,1.088,Very Low Likelihood
+10496,0.289,Very Low Likelihood
+10497,2.933,Very Low Likelihood
+10498,1.259,Very Low Likelihood
+10499,0.285,Very Low Likelihood
+10500,0.188,Very Low Likelihood
+10501,16.539,Very Low Likelihood
+10502,2.8,Very Low Likelihood
+10503,0.161,Very Low Likelihood
+10504,2.354,Very Low Likelihood
+10505,0.359,Very Low Likelihood
+10506,22.685,Very Low Likelihood
+10507,3.061,Very Low Likelihood
+10508,46.636,Low Likelihood
+10509,0.337,Very Low Likelihood
+10510,16.87,Very Low Likelihood
+10511,2.513,Very Low Likelihood
+10512,4.852,Very Low Likelihood
+10513,2.558,Very Low Likelihood
+10514,3.376,Very Low Likelihood
+10515,15.613,Very Low Likelihood
+10516,18.345,Very Low Likelihood
+10517,11.762,Very Low Likelihood
+10518,1.595,Very Low Likelihood
+10519,0.149,Very Low Likelihood
+10520,0.437,Very Low Likelihood
+10521,24.869,Very Low Likelihood
+10522,0.087,Very Low Likelihood
+10523,3.938,Very Low Likelihood
+10524,5.873,Very Low Likelihood
+10525,2.703,Very Low Likelihood
+10526,2.906,Very Low Likelihood
+10527,0.369,Very Low Likelihood
+10528,10.425,Very Low Likelihood
+10529,17.141,Very Low Likelihood
+10530,0.998,Very Low Likelihood
+10531,0.44,Very Low Likelihood
+10532,1.402,Very Low Likelihood
+10533,37.992,Low Likelihood
+10534,0.195,Very Low Likelihood
+10535,0.47,Very Low Likelihood
+10536,0.93,Very Low Likelihood
+10537,24.475,Very Low Likelihood
+10538,1.042,Very Low Likelihood
+10539,0.352,Very Low Likelihood
+10540,0.248,Very Low Likelihood
+10541,15.009,Very Low Likelihood
+10542,0.29,Very Low Likelihood
+10543,3.409,Very Low Likelihood
+10544,12.169,Very Low Likelihood
+10545,36.178,Low Likelihood
+10546,0.509,Very Low Likelihood
+10547,10.929,Very Low Likelihood
+10548,0.454,Very Low Likelihood
+10549,10.363,Very Low Likelihood
+10550,1.634,Very Low Likelihood
+10551,3.96,Very Low Likelihood
+10552,0.626,Very Low Likelihood
+10553,40.644,Low Likelihood
+10554,0.541,Very Low Likelihood
+10555,1.65,Very Low Likelihood
+10556,2.261,Very Low Likelihood
+10557,33.002,Low Likelihood
+10558,4.622,Very Low Likelihood
+10559,0.659,Very Low Likelihood
+10560,6.491,Very Low Likelihood
+10561,5.359,Very Low Likelihood
+10562,9.963,Very Low Likelihood
+10563,2.23,Very Low Likelihood
+10564,10.833,Very Low Likelihood
+10565,75.132,High Likelihood
+10566,8.593,Very Low Likelihood
+10567,1.143,Very Low Likelihood
+10568,0.964,Very Low Likelihood
+10569,19.654,Very Low Likelihood
+10570,0.205,Very Low Likelihood
+10571,1.082,Very Low Likelihood
+10572,5.589,Very Low Likelihood
+10573,33.54,Low Likelihood
+10574,13.354,Very Low Likelihood
+10575,0.651,Very Low Likelihood
+10576,0.294,Very Low Likelihood
+10577,42.893,Low Likelihood
+10578,12.26,Very Low Likelihood
+10579,0.468,Very Low Likelihood
+10580,0.569,Very Low Likelihood
+10581,60.013,Medium Likelihood
+10582,1.418,Very Low Likelihood
+10583,0.57,Very Low Likelihood
+10584,1.133,Very Low Likelihood
+10585,37.111,Low Likelihood
+10586,1.155,Very Low Likelihood
+10587,1.515,Very Low Likelihood
+10588,0.204,Very Low Likelihood
+10589,20.22,Very Low Likelihood
+10590,0.717,Very Low Likelihood
+10591,0.492,Very Low Likelihood
+10592,1.083,Very Low Likelihood
+10593,10.635,Very Low Likelihood
+10594,5.393,Very Low Likelihood
+10595,15.137,Very Low Likelihood
+10596,0.693,Very Low Likelihood
+10597,42.723,Low Likelihood
+10598,0.159,Very Low Likelihood
+10599,1.066,Very Low Likelihood
+10600,2.347,Very Low Likelihood
+10601,48.827,Low Likelihood
+10602,3.495,Very Low Likelihood
+10603,0.203,Very Low Likelihood
+10604,1.448,Very Low Likelihood
+10605,18.407,Very Low Likelihood
+10606,1.471,Very Low Likelihood
+10607,0.822,Very Low Likelihood
+10608,2.489,Very Low Likelihood
+10609,3.713,Very Low Likelihood
+10610,2.272,Very Low Likelihood
+10611,7.79,Very Low Likelihood
+10612,1.61,Very Low Likelihood
+10613,42.186,Low Likelihood
+10614,2.815,Very Low Likelihood
+10615,2.629,Very Low Likelihood
+10616,3.29,Very Low Likelihood
+10617,60.041,Medium Likelihood
+10618,1.775,Very Low Likelihood
+10619,4.298,Very Low Likelihood
+10620,8.187,Very Low Likelihood
+10621,68.739,Medium Likelihood
+10622,0.248,Very Low Likelihood
+10623,4.197,Very Low Likelihood
+10624,0.772,Very Low Likelihood
+10625,32.933,Low Likelihood
+10626,1.027,Very Low Likelihood
+10627,3.199,Very Low Likelihood
+10628,7.749,Very Low Likelihood
+10629,14.483,Very Low Likelihood
+10630,10.41,Very Low Likelihood
+10631,0.782,Very Low Likelihood
+10632,6.323,Very Low Likelihood
+10633,7.758,Very Low Likelihood
+10634,1.365,Very Low Likelihood
+10635,0.81,Very Low Likelihood
+10636,0.765,Very Low Likelihood
+10637,11.484,Very Low Likelihood
+10638,2.069,Very Low Likelihood
+10639,0.498,Very Low Likelihood
+10640,0.48,Very Low Likelihood
+10641,3.686,Very Low Likelihood
+10642,2.289,Very Low Likelihood
+10643,11.513,Very Low Likelihood
+10644,7.318,Very Low Likelihood
+10645,59.797,Medium Likelihood
+10646,0.396,Very Low Likelihood
+10647,8.163,Very Low Likelihood
+10648,1.224,Very Low Likelihood
+10649,56.902,Medium Likelihood
+10650,0.206,Very Low Likelihood
+10651,0.224,Very Low Likelihood
+10652,4.16,Very Low Likelihood
+10653,21.138,Very Low Likelihood
+10654,1.344,Very Low Likelihood
+10655,0.343,Very Low Likelihood
+10656,0.315,Very Low Likelihood
+10657,14.459,Very Low Likelihood
+10658,1.691,Very Low Likelihood
+10659,0.374,Very Low Likelihood
+10660,1.059,Very Low Likelihood
+10661,65.669,Medium Likelihood
+10662,2.429,Very Low Likelihood
+10663,9.429,Very Low Likelihood
+10664,0.41,Very Low Likelihood
+10665,63.59,Medium Likelihood
+10666,1.441,Very Low Likelihood
+10667,0.735,Very Low Likelihood
+10668,1.087,Very Low Likelihood
+10669,9.004,Very Low Likelihood
+10670,2.934,Very Low Likelihood
+10671,0.134,Very Low Likelihood
+10672,0.363,Very Low Likelihood
+10673,2.726,Very Low Likelihood
+10674,0.501,Very Low Likelihood
+10675,0.231,Very Low Likelihood
+10676,0.263,Very Low Likelihood
+10677,1.757,Very Low Likelihood
+10678,0.156,Very Low Likelihood
+10679,21.819,Very Low Likelihood
+10680,4.444,Very Low Likelihood
+10681,0.234,Very Low Likelihood
+10682,0.313,Very Low Likelihood
+10683,0.183,Very Low Likelihood
+10684,4.995,Very Low Likelihood
+10685,0.28,Very Low Likelihood
+10686,0.281,Very Low Likelihood
+10687,0.143,Very Low Likelihood
+10688,0.353,Very Low Likelihood
+10689,1.68,Very Low Likelihood
+10690,3.406,Very Low Likelihood
+10691,0.147,Very Low Likelihood
+10692,0.597,Very Low Likelihood
+10693,0.124,Very Low Likelihood
+10694,0.641,Very Low Likelihood
+10695,0.31,Very Low Likelihood
+10696,0.514,Very Low Likelihood
+10697,0.718,Very Low Likelihood
+10698,0.22,Very Low Likelihood
+10699,0.169,Very Low Likelihood
+10700,0.468,Very Low Likelihood
+10701,0.241,Very Low Likelihood
+10702,0.35,Very Low Likelihood
+10703,7.239,Very Low Likelihood
+10704,0.306,Very Low Likelihood
+10705,0.401,Very Low Likelihood
+10706,0.143,Very Low Likelihood
+10707,0.246,Very Low Likelihood
+10708,0.285,Very Low Likelihood
+10709,4.745,Very Low Likelihood
+10710,0.265,Very Low Likelihood
+10711,4.996,Very Low Likelihood
+10712,0.184,Very Low Likelihood
+10713,1.332,Very Low Likelihood
+10714,3.891,Very Low Likelihood
+10715,0.081,Very Low Likelihood
+10716,0.289,Very Low Likelihood
+10717,0.133,Very Low Likelihood
+10718,12.472,Very Low Likelihood
+10719,0.802,Very Low Likelihood
+10720,2.076,Very Low Likelihood
+10721,2.79,Very Low Likelihood
+10722,0.234,Very Low Likelihood
+10723,0.118,Very Low Likelihood
+10724,0.296,Very Low Likelihood
+10725,7.372,Very Low Likelihood
+10726,0.3,Very Low Likelihood
+10727,3.832,Very Low Likelihood
+10728,0.296,Very Low Likelihood
+10729,0.608,Very Low Likelihood
+10730,0.252,Very Low Likelihood
+10731,1.239,Very Low Likelihood
+10732,0.276,Very Low Likelihood
+10733,0.434,Very Low Likelihood
+10734,0.481,Very Low Likelihood
+10735,0.171,Very Low Likelihood
+10736,4.273,Very Low Likelihood
+10737,0.289,Very Low Likelihood
+10738,0.362,Very Low Likelihood
+10739,0.419,Very Low Likelihood
+10740,0.169,Very Low Likelihood
+10741,0.164,Very Low Likelihood
+10742,7.376,Very Low Likelihood
+10743,0.262,Very Low Likelihood
+10744,7.759,Very Low Likelihood
+10745,2.177,Very Low Likelihood
+10746,0.136,Very Low Likelihood
+10747,0.11,Very Low Likelihood
+10748,1.488,Very Low Likelihood
+10749,0.33,Very Low Likelihood
+10750,0.105,Very Low Likelihood
+10751,2.914,Very Low Likelihood
+10752,2.016,Very Low Likelihood
+10753,0.206,Very Low Likelihood
+10754,0.137,Very Low Likelihood
+10755,0.391,Very Low Likelihood
+10756,0.408,Very Low Likelihood
+10757,99.844,Very High Likelihood
+10758,6.04,Very Low Likelihood
+10759,0.179,Very Low Likelihood
+10760,4.452,Very Low Likelihood
+10761,0.26,Very Low Likelihood
+10762,0.288,Very Low Likelihood
+10763,0.38,Very Low Likelihood
+10764,0.672,Very Low Likelihood
+10765,0.167,Very Low Likelihood
+10766,3.677,Very Low Likelihood
+10767,8.442,Very Low Likelihood
+10768,20.076,Very Low Likelihood
+10769,0.256,Very Low Likelihood
+10770,0.18,Very Low Likelihood
+10771,7.408,Very Low Likelihood
+10772,7.762,Very Low Likelihood
+10773,0.136,Very Low Likelihood
+10774,0.239,Very Low Likelihood
+10775,3.386,Very Low Likelihood
+10776,23.184,Very Low Likelihood
+10777,0.229,Very Low Likelihood
+10778,3.8,Very Low Likelihood
+10779,24.698,Very Low Likelihood
+10780,0.129,Very Low Likelihood
+10781,0.214,Very Low Likelihood
+10782,3.047,Very Low Likelihood
+10783,3.51,Very Low Likelihood
+10784,5.006,Very Low Likelihood
+10785,0.699,Very Low Likelihood
+10786,0.357,Very Low Likelihood
+10787,0.171,Very Low Likelihood
+10788,4.541,Very Low Likelihood
+10789,0.183,Very Low Likelihood
+10790,0.247,Very Low Likelihood
+10791,0.306,Very Low Likelihood
+10792,0.252,Very Low Likelihood
+10793,1.651,Very Low Likelihood
+10794,11.992,Very Low Likelihood
+10795,6.261,Very Low Likelihood
+10796,2.144,Very Low Likelihood
+10797,0.315,Very Low Likelihood
+10798,2.43,Very Low Likelihood
+10799,3.512,Very Low Likelihood
+10800,0.316,Very Low Likelihood
+10801,0.28,Very Low Likelihood
+10802,5.084,Very Low Likelihood
+10803,3.38,Very Low Likelihood
+10804,0.225,Very Low Likelihood
+10805,0.388,Very Low Likelihood
+10806,0.215,Very Low Likelihood
+10807,0.192,Very Low Likelihood
+10808,0.252,Very Low Likelihood
+10809,3.879,Very Low Likelihood
+10810,0.135,Very Low Likelihood
+10811,0.137,Very Low Likelihood
+10812,0.231,Very Low Likelihood
+10813,0.769,Very Low Likelihood
+10814,0.252,Very Low Likelihood
+10815,0.183,Very Low Likelihood
+10816,0.117,Very Low Likelihood
+10817,5.138,Very Low Likelihood
+10818,1.358,Very Low Likelihood
+10819,2.09,Very Low Likelihood
+10820,0.125,Very Low Likelihood
+10821,0.213,Very Low Likelihood
+10822,0.169,Very Low Likelihood
+10823,0.215,Very Low Likelihood
+10824,0.167,Very Low Likelihood
+10825,0.521,Very Low Likelihood
+10826,0.082,Very Low Likelihood
+10827,0.221,Very Low Likelihood
+10828,0.338,Very Low Likelihood
+10829,0.256,Very Low Likelihood
+10830,7.29,Very Low Likelihood
+10831,0.313,Very Low Likelihood
+10832,0.452,Very Low Likelihood
+10833,0.134,Very Low Likelihood
+10834,0.633,Very Low Likelihood
+10835,0.254,Very Low Likelihood
+10836,3.064,Very Low Likelihood
+10837,4.225,Very Low Likelihood
+10838,3.61,Very Low Likelihood
+10839,0.621,Very Low Likelihood
+10840,0.172,Very Low Likelihood
+10841,3.091,Very Low Likelihood
+10842,0.488,Very Low Likelihood
+10843,0.282,Very Low Likelihood
+10844,0.406,Very Low Likelihood
+10845,0.27,Very Low Likelihood
+10846,0.25,Very Low Likelihood
+10847,0.07,Very Low Likelihood
+10848,0.219,Very Low Likelihood
+10849,0.338,Very Low Likelihood
+10850,0.324,Very Low Likelihood
+10851,0.401,Very Low Likelihood
+10852,1.853,Very Low Likelihood
+10853,2.456,Very Low Likelihood
+10854,0.276,Very Low Likelihood
+10855,5.26,Very Low Likelihood
+10856,0.236,Very Low Likelihood
+10857,0.138,Very Low Likelihood
+10858,0.183,Very Low Likelihood
+10859,0.6,Very Low Likelihood
+10860,0.178,Very Low Likelihood
+10861,0.421,Very Low Likelihood
+10862,0.224,Very Low Likelihood
+10863,2.454,Very Low Likelihood
+10864,3.75,Very Low Likelihood
+10865,1.061,Very Low Likelihood
+10866,0.217,Very Low Likelihood
+10867,0.185,Very Low Likelihood
+10868,0.371,Very Low Likelihood
+10869,0.63,Very Low Likelihood
+10870,0.415,Very Low Likelihood
+10871,4.403,Very Low Likelihood
+10872,57.096,Medium Likelihood
+10873,0.143,Very Low Likelihood
+10874,0.189,Very Low Likelihood
+10875,0.363,Very Low Likelihood
+10876,0.164,Very Low Likelihood
+10877,0.267,Very Low Likelihood
+10878,0.264,Very Low Likelihood
+10879,0.179,Very Low Likelihood
+10880,3.684,Very Low Likelihood
+10881,0.165,Very Low Likelihood
+10882,0.261,Very Low Likelihood
+10883,20.399,Very Low Likelihood
+10884,0.446,Very Low Likelihood
+10885,0.288,Very Low Likelihood
+10886,6.024,Very Low Likelihood
+10887,0.223,Very Low Likelihood
+10888,0.434,Very Low Likelihood
+10889,0.328,Very Low Likelihood
+10890,0.185,Very Low Likelihood
+10891,0.396,Very Low Likelihood
+10892,0.891,Very Low Likelihood
+10893,6.939,Very Low Likelihood
+10894,0.19,Very Low Likelihood
+10895,0.266,Very Low Likelihood
+10896,0.621,Very Low Likelihood
+10897,5.469,Very Low Likelihood
+10898,0.42,Very Low Likelihood
+10899,0.101,Very Low Likelihood
+10900,0.299,Very Low Likelihood
+10901,0.26,Very Low Likelihood
+10902,0.375,Very Low Likelihood
+10903,4.026,Very Low Likelihood
+10904,0.231,Very Low Likelihood
+10905,5.939,Very Low Likelihood
+10906,0.27,Very Low Likelihood
+10907,0.264,Very Low Likelihood
+10908,16.014,Very Low Likelihood
+10909,0.282,Very Low Likelihood
+10910,2.869,Very Low Likelihood
+10911,0.252,Very Low Likelihood
+10912,0.412,Very Low Likelihood
+10913,2.372,Very Low Likelihood
+10914,0.457,Very Low Likelihood
+10915,0.287,Very Low Likelihood
+10916,12.367,Very Low Likelihood
+10917,0.327,Very Low Likelihood
+10918,0.324,Very Low Likelihood
+10919,0.221,Very Low Likelihood
+10920,0.535,Very Low Likelihood
+10921,2.194,Very Low Likelihood
+10922,3.995,Very Low Likelihood
+10923,0.245,Very Low Likelihood
+10924,0.335,Very Low Likelihood
+10925,0.153,Very Low Likelihood
+10926,0.319,Very Low Likelihood
+10927,2.397,Very Low Likelihood
+10928,1.386,Very Low Likelihood
+10929,0.408,Very Low Likelihood
+10930,0.259,Very Low Likelihood
+10931,2.105,Very Low Likelihood
+10932,0.273,Very Low Likelihood
+10933,0.321,Very Low Likelihood
+10934,0.359,Very Low Likelihood
+10935,3.49,Very Low Likelihood
+10936,1.136,Very Low Likelihood
+10937,49.131,Low Likelihood
+10938,3.116,Very Low Likelihood
+10939,0.261,Very Low Likelihood
+10940,1.06,Very Low Likelihood
+10941,7.583,Very Low Likelihood
+10942,9.774,Very Low Likelihood
+10943,1.775,Very Low Likelihood
+10944,0.928,Very Low Likelihood
+10945,20.133,Very Low Likelihood
+10946,0.278,Very Low Likelihood
+10947,0.25,Very Low Likelihood
+10948,0.566,Very Low Likelihood
+10949,54.038,Medium Likelihood
+10950,1.631,Very Low Likelihood
+10951,0.379,Very Low Likelihood
+10952,1.681,Very Low Likelihood
+10953,5.478,Very Low Likelihood
+10954,0.737,Very Low Likelihood
+10955,4.401,Very Low Likelihood
+10956,0.551,Very Low Likelihood
+10957,46.03,Low Likelihood
+10958,1.462,Very Low Likelihood
+10959,2.147,Very Low Likelihood
+10960,6.567,Very Low Likelihood
+10961,20.154,Very Low Likelihood
+10962,3.317,Very Low Likelihood
+10963,12.754,Very Low Likelihood
+10964,0.658,Very Low Likelihood
+10965,61.507,Medium Likelihood
+10966,1.623,Very Low Likelihood
+10967,4.389,Very Low Likelihood
+10968,3.308,Very Low Likelihood
+10969,9.454,Very Low Likelihood
+10970,0.449,Very Low Likelihood
+10971,0.675,Very Low Likelihood
+10972,1.245,Very Low Likelihood
+10973,51.078,Medium Likelihood
+10974,0.331,Very Low Likelihood
+10975,4.719,Very Low Likelihood
+10976,2.966,Very Low Likelihood
+10977,59.646,Medium Likelihood
+10978,1.984,Very Low Likelihood
+10979,0.49,Very Low Likelihood
+10980,0.179,Very Low Likelihood
+10981,40.945,Low Likelihood
+10982,0.173,Very Low Likelihood
+10983,0.642,Very Low Likelihood
+10984,1.825,Very Low Likelihood
+10985,15.278,Very Low Likelihood
+10986,4.209,Very Low Likelihood
+10987,0.434,Very Low Likelihood
+10988,4.393,Very Low Likelihood
+10989,58.133,Medium Likelihood
+10990,1.793,Very Low Likelihood
+10991,1.536,Very Low Likelihood
+10992,1.511,Very Low Likelihood
+10993,66.589,Medium Likelihood
+10994,0.598,Very Low Likelihood
+10995,1.608,Very Low Likelihood
+10996,0.398,Very Low Likelihood
+10997,7.025,Very Low Likelihood
+10998,0.562,Very Low Likelihood
+10999,8.053,Very Low Likelihood
+11000,0.602,Very Low Likelihood
+11001,29.662,Low Likelihood
+11002,2.547,Very Low Likelihood
+11003,0.637,Very Low Likelihood
+11004,10.928,Very Low Likelihood
+11005,69.693,Medium Likelihood
+11006,0.305,Very Low Likelihood
+11007,0.302,Very Low Likelihood
+11008,5.919,Very Low Likelihood
+11009,8.113,Very Low Likelihood
+11010,2.245,Very Low Likelihood
+11011,3.313,Very Low Likelihood
+11012,0.358,Very Low Likelihood
+11013,25.304,Low Likelihood
+11014,12.976,Very Low Likelihood
+11015,1.673,Very Low Likelihood
+11016,4.971,Very Low Likelihood
+11017,37.251,Low Likelihood
+11018,1.2,Very Low Likelihood
+11019,3.414,Very Low Likelihood
+11020,0.815,Very Low Likelihood
+11021,13.988,Very Low Likelihood
+11022,0.907,Very Low Likelihood
+11023,0.311,Very Low Likelihood
+11024,2.955,Very Low Likelihood
+11025,62.472,Medium Likelihood
+11026,2.637,Very Low Likelihood
+11027,12.703,Very Low Likelihood
+11028,5.738,Very Low Likelihood
+11029,23.172,Very Low Likelihood
+11030,3.365,Very Low Likelihood
+11031,0.343,Very Low Likelihood
+11032,0.475,Very Low Likelihood
+11033,68.744,Medium Likelihood
+11034,0.758,Very Low Likelihood
+11035,0.731,Very Low Likelihood
+11036,1.863,Very Low Likelihood
+11037,26.691,Low Likelihood
+11038,8.915,Very Low Likelihood
+11039,17.19,Very Low Likelihood
+11040,0.246,Very Low Likelihood
+11041,26.362,Low Likelihood
+11042,1.359,Very Low Likelihood
+11043,12.427,Very Low Likelihood
+11044,0.553,Very Low Likelihood
+11045,8.652,Very Low Likelihood
+11046,0.724,Very Low Likelihood
+11047,7.522,Very Low Likelihood
+11048,0.726,Very Low Likelihood
+11049,45.159,Low Likelihood
+11050,0.651,Very Low Likelihood
+11051,6.56,Very Low Likelihood
+11052,2.327,Very Low Likelihood
+11053,27.361,Low Likelihood
+11054,6.217,Very Low Likelihood
+11055,0.989,Very Low Likelihood
+11056,0.762,Very Low Likelihood
+11057,8.493,Very Low Likelihood
+11058,7.433,Very Low Likelihood
+11059,0.601,Very Low Likelihood
+11060,6.17,Very Low Likelihood
+11061,24.677,Very Low Likelihood
+11062,0.849,Very Low Likelihood
+11063,2.366,Very Low Likelihood
+11064,3.758,Very Low Likelihood
+11065,63.786,Medium Likelihood
+11066,0.58,Very Low Likelihood
+11067,0.403,Very Low Likelihood
+11068,2.327,Very Low Likelihood
+11069,24.035,Very Low Likelihood
+11070,3.448,Very Low Likelihood
+11071,1.396,Very Low Likelihood
+11072,2.709,Very Low Likelihood
+11073,4.921,Very Low Likelihood
+11074,7.615,Very Low Likelihood
+11075,0.936,Very Low Likelihood
+11076,19.877,Very Low Likelihood
+11077,60.511,Medium Likelihood
+11078,1.49,Very Low Likelihood
+11079,5.236,Very Low Likelihood
+11080,2.328,Very Low Likelihood
+11081,38.273,Low Likelihood
+11082,5.902,Very Low Likelihood
+11083,1.495,Very Low Likelihood
+11084,1.037,Very Low Likelihood
+11085,35.007,Low Likelihood
+11086,0.476,Very Low Likelihood
+11087,8.401,Very Low Likelihood
+11088,1.924,Very Low Likelihood
+11089,41.193,Low Likelihood
+11090,13.772,Very Low Likelihood
+11091,0.231,Very Low Likelihood
+11092,0.461,Very Low Likelihood
+11093,72.183,High Likelihood
+11094,0.518,Very Low Likelihood
+11095,0.318,Very Low Likelihood
+11096,0.227,Very Low Likelihood
+11097,66.845,Medium Likelihood
+11098,0.391,Very Low Likelihood
+11099,0.342,Very Low Likelihood
+11100,4.196,Very Low Likelihood
+11101,4.259,Very Low Likelihood
+11102,0.608,Very Low Likelihood
+11103,0.558,Very Low Likelihood
+11104,0.232,Very Low Likelihood
+11105,14.377,Very Low Likelihood
+11106,3.321,Very Low Likelihood
+11107,2.045,Very Low Likelihood
+11108,0.76,Very Low Likelihood
+11109,20.342,Very Low Likelihood
+11110,4.6,Very Low Likelihood
+11111,1.887,Very Low Likelihood
+11112,5.413,Very Low Likelihood
+11113,2.1,Very Low Likelihood
+11114,0.287,Very Low Likelihood
+11115,1.136,Very Low Likelihood
+11116,13.037,Very Low Likelihood
+11117,4.361,Very Low Likelihood
+11118,3.489,Very Low Likelihood
+11119,1.835,Very Low Likelihood
+11120,9.083,Very Low Likelihood
+11121,64.054,Medium Likelihood
+11122,3.721,Very Low Likelihood
+11123,1.167,Very Low Likelihood
+11124,1.642,Very Low Likelihood
+11125,17.554,Very Low Likelihood
+11126,8.26,Very Low Likelihood
+11127,2.102,Very Low Likelihood
+11128,0.535,Very Low Likelihood
+11129,6.64,Very Low Likelihood
+11130,1.373,Very Low Likelihood
+11131,0.264,Very Low Likelihood
+11132,1.069,Very Low Likelihood
+11133,47.186,Low Likelihood
+11134,1.298,Very Low Likelihood
+11135,4.002,Very Low Likelihood
+11136,8.842,Very Low Likelihood
+11137,57.32,Medium Likelihood
+11138,0.653,Very Low Likelihood
+11139,11.16,Very Low Likelihood
+11140,1.529,Very Low Likelihood
+11141,61.61,Medium Likelihood
+11142,2.766,Very Low Likelihood
+11143,10.44,Very Low Likelihood
+11144,4.987,Very Low Likelihood
+11145,9.532,Very Low Likelihood
+11146,0.875,Very Low Likelihood
+11147,0.352,Very Low Likelihood
+11148,0.853,Very Low Likelihood
+11149,28.883,Low Likelihood
+11150,1.546,Very Low Likelihood
+11151,0.559,Very Low Likelihood
+11152,0.601,Very Low Likelihood
+11153,18.692,Very Low Likelihood
+11154,3.728,Very Low Likelihood
+11155,0.711,Very Low Likelihood
+11156,1.004,Very Low Likelihood
+11157,25.221,Low Likelihood
+11158,0.629,Very Low Likelihood
+11159,5.407,Very Low Likelihood
+11160,0.65,Very Low Likelihood
+11161,43.341,Low Likelihood
+11162,0.35,Very Low Likelihood
+11163,5.753,Very Low Likelihood
+11164,4.731,Very Low Likelihood
+11165,34.243,Low Likelihood
+11166,0.211,Very Low Likelihood
+11167,2.812,Very Low Likelihood
+11168,2.727,Very Low Likelihood
+11169,60.057,Medium Likelihood
+11170,3.221,Very Low Likelihood
+11171,0.641,Very Low Likelihood
+11172,0.268,Very Low Likelihood
+11173,53.06,Medium Likelihood
+11174,8.807,Very Low Likelihood
+11175,3.683,Very Low Likelihood
+11176,0.276,Very Low Likelihood
+11177,11.129,Very Low Likelihood
+11178,2.736,Very Low Likelihood
+11179,12.896,Very Low Likelihood
+11180,4.231,Very Low Likelihood
+11181,18.226,Very Low Likelihood
+11182,7.878,Very Low Likelihood
+11183,10.984,Very Low Likelihood
+11184,6.434,Very Low Likelihood
+11185,19.503,Very Low Likelihood
+11186,8.671,Very Low Likelihood
+11187,7.558,Very Low Likelihood
+11188,18.449,Very Low Likelihood
+11189,53.403,Medium Likelihood
+11190,1.253,Very Low Likelihood
+11191,6.896,Very Low Likelihood
+11192,10.699,Very Low Likelihood
+11193,5.82,Very Low Likelihood
+11194,5.952,Very Low Likelihood
+11195,0.444,Very Low Likelihood
+11196,0.616,Very Low Likelihood
+11197,17.422,Very Low Likelihood
+11198,0.322,Very Low Likelihood
+11199,5.812,Very Low Likelihood
+11200,3.319,Very Low Likelihood
+11201,9.869,Very Low Likelihood
+11202,2.284,Very Low Likelihood
+11203,0.655,Very Low Likelihood
+11204,4.882,Very Low Likelihood
+11205,72.067,High Likelihood
+11206,11.475,Very Low Likelihood
+11207,4.204,Very Low Likelihood
+11208,2.419,Very Low Likelihood
+11209,3.079,Very Low Likelihood
+11210,3.244,Very Low Likelihood
+11211,0.814,Very Low Likelihood
+11212,8.493,Very Low Likelihood
+11213,5.666,Very Low Likelihood
+11214,3.218,Very Low Likelihood
+11215,0.152,Very Low Likelihood
+11216,0.534,Very Low Likelihood
+11217,23.684,Very Low Likelihood
+11218,7.806,Very Low Likelihood
+11219,0.97,Very Low Likelihood
+11220,1.074,Very Low Likelihood
+11221,66.495,Medium Likelihood
+11222,7.313,Very Low Likelihood
+11223,6.255,Very Low Likelihood
+11224,7.234,Very Low Likelihood
+11225,15.585,Very Low Likelihood
+11226,0.29,Very Low Likelihood
+11227,0.594,Very Low Likelihood
+11228,3.041,Very Low Likelihood
+11229,58.236,Medium Likelihood
+11230,11.433,Very Low Likelihood
+11231,2.704,Very Low Likelihood
+11232,1.753,Very Low Likelihood
+11233,15.739,Very Low Likelihood
+11234,1.137,Very Low Likelihood
+11235,10.137,Very Low Likelihood
+11236,5.67,Very Low Likelihood
+11237,48.462,Low Likelihood
+11238,0.926,Very Low Likelihood
+11239,12.033,Very Low Likelihood
+11240,0.73,Very Low Likelihood
+11241,20.049,Very Low Likelihood
+11242,8.691,Very Low Likelihood
+11243,4.533,Very Low Likelihood
+11244,17.893,Very Low Likelihood
+11245,20.524,Very Low Likelihood
+11246,2.249,Very Low Likelihood
+11247,2.271,Very Low Likelihood
+11248,0.652,Very Low Likelihood
+11249,47.279,Low Likelihood
+11250,0.438,Very Low Likelihood
+11251,0.945,Very Low Likelihood
+11252,4.844,Very Low Likelihood
+11253,54.071,Medium Likelihood
+11254,4.419,Very Low Likelihood
+11255,1.135,Very Low Likelihood
+11256,0.208,Very Low Likelihood
+11257,40.423,Low Likelihood
+11258,4.679,Very Low Likelihood
+11259,5.696,Very Low Likelihood
+11260,0.296,Very Low Likelihood
+11261,10.026,Very Low Likelihood
+11262,0.403,Very Low Likelihood
+11263,0.853,Very Low Likelihood
+11264,2.665,Very Low Likelihood
+11265,2.957,Very Low Likelihood
+11266,1.689,Very Low Likelihood
+11267,1.569,Very Low Likelihood
+11268,0.251,Very Low Likelihood
+11269,3.876,Very Low Likelihood
+11270,1.653,Very Low Likelihood
+11271,3.33,Very Low Likelihood
+11272,0.493,Very Low Likelihood
+11273,11.796,Very Low Likelihood
+11274,0.93,Very Low Likelihood
+11275,6.92,Very Low Likelihood
+11276,0.294,Very Low Likelihood
+11277,9.488,Very Low Likelihood
+11278,4.896,Very Low Likelihood
+11279,0.181,Very Low Likelihood
+11280,9.316,Very Low Likelihood
+11281,14.271,Very Low Likelihood
+11282,1.026,Very Low Likelihood
+11283,0.797,Very Low Likelihood
+11284,0.54,Very Low Likelihood
+11285,24.725,Very Low Likelihood
+11286,0.622,Very Low Likelihood
+11287,5.641,Very Low Likelihood
+11288,11.849,Very Low Likelihood
+11289,34.717,Low Likelihood
+11290,7.205,Very Low Likelihood
+11291,0.361,Very Low Likelihood
+11292,1.749,Very Low Likelihood
+11293,5.338,Very Low Likelihood
+11294,4.537,Very Low Likelihood
+11295,0.43,Very Low Likelihood
+11296,0.224,Very Low Likelihood
+11297,58.224,Medium Likelihood
+11298,4.313,Very Low Likelihood
+11299,1.312,Very Low Likelihood
+11300,7.739,Very Low Likelihood
+11301,20.006,Very Low Likelihood
+11302,0.209,Very Low Likelihood
+11303,0.202,Very Low Likelihood
+11304,5.533,Very Low Likelihood
+11305,6.097,Very Low Likelihood
+11306,0.506,Very Low Likelihood
+11307,4.116,Very Low Likelihood
+11308,6.274,Very Low Likelihood
+11309,52.741,Medium Likelihood
+11310,9.08,Very Low Likelihood
+11311,0.435,Very Low Likelihood
+11312,0.369,Very Low Likelihood
+11313,2.869,Very Low Likelihood
+11314,3.437,Very Low Likelihood
+11315,1.449,Very Low Likelihood
+11316,1.015,Very Low Likelihood
+11317,4.075,Very Low Likelihood
+11318,8.288,Very Low Likelihood
+11319,3.248,Very Low Likelihood
+11320,0.881,Very Low Likelihood
+11321,38.434,Low Likelihood
+11322,18.479,Very Low Likelihood
+11323,1.29,Very Low Likelihood
+11324,0.731,Very Low Likelihood
+11325,41.261,Low Likelihood
+11326,0.268,Very Low Likelihood
+11327,2.011,Very Low Likelihood
+11328,0.901,Very Low Likelihood
+11329,36.618,Low Likelihood
+11330,0.297,Very Low Likelihood
+11331,0.57,Very Low Likelihood
+11332,0.731,Very Low Likelihood
+11333,47.805,Low Likelihood
+11334,5.411,Very Low Likelihood
+11335,2.761,Very Low Likelihood
+11336,4.607,Very Low Likelihood
+11337,7.799,Very Low Likelihood
+11338,2.854,Very Low Likelihood
+11339,2.531,Very Low Likelihood
+11340,2.613,Very Low Likelihood
+11341,14.417,Very Low Likelihood
+11342,0.678,Very Low Likelihood
+11343,5.585,Very Low Likelihood
+11344,0.288,Very Low Likelihood
+11345,30.903,Low Likelihood
+11346,0.609,Very Low Likelihood
+11347,2.927,Very Low Likelihood
+11348,0.433,Very Low Likelihood
+11349,61.289,Medium Likelihood
+11350,0.317,Very Low Likelihood
+11351,0.25,Very Low Likelihood
+11352,1.938,Very Low Likelihood
+11353,45.735,Low Likelihood
+11354,0.329,Very Low Likelihood
+11355,0.614,Very Low Likelihood
+11356,2.958,Very Low Likelihood
+11357,47.232,Low Likelihood
+11358,0.391,Very Low Likelihood
+11359,9.265,Very Low Likelihood
+11360,0.684,Very Low Likelihood
+11361,62.385,Medium Likelihood
+11362,9.041,Very Low Likelihood
+11363,1.191,Very Low Likelihood
+11364,0.754,Very Low Likelihood
+11365,63.352,Medium Likelihood
+11366,7.874,Very Low Likelihood
+11367,2.588,Very Low Likelihood
+11368,1.569,Very Low Likelihood
+11369,8.742,Very Low Likelihood
+11370,0.835,Very Low Likelihood
+11371,4.816,Very Low Likelihood
+11372,0.121,Very Low Likelihood
+11373,26.815,Low Likelihood
+11374,0.596,Very Low Likelihood
+11375,10.778,Very Low Likelihood
+11376,1.077,Very Low Likelihood
+11377,3.744,Very Low Likelihood
+11378,0.305,Very Low Likelihood
+11379,1.994,Very Low Likelihood
+11380,0.129,Very Low Likelihood
+11381,26.923,Low Likelihood
+11382,10.218,Very Low Likelihood
+11383,1.48,Very Low Likelihood
+11384,10.451,Very Low Likelihood
+11385,9.889,Very Low Likelihood
+11386,4.913,Very Low Likelihood
+11387,5.841,Very Low Likelihood
+11388,0.441,Very Low Likelihood
+11389,27.287,Low Likelihood
+11390,0.596,Very Low Likelihood
+11391,0.564,Very Low Likelihood
+11392,1.386,Very Low Likelihood
+11393,11.088,Very Low Likelihood
+11394,6.455,Very Low Likelihood
+11395,1.157,Very Low Likelihood
+11396,4.551,Very Low Likelihood
+11397,22.404,Very Low Likelihood
+11398,5.838,Very Low Likelihood
+11399,0.699,Very Low Likelihood
+11400,5.269,Very Low Likelihood
+11401,50.273,Medium Likelihood
+11402,0.689,Very Low Likelihood
+11403,3.004,Very Low Likelihood
+11404,0.802,Very Low Likelihood
+11405,17.934,Very Low Likelihood
+11406,7.456,Very Low Likelihood
+11407,0.245,Very Low Likelihood
+11408,2.391,Very Low Likelihood
+11409,46.384,Low Likelihood
+11410,13.741,Very Low Likelihood
+11411,1.719,Very Low Likelihood
+11412,11.842,Very Low Likelihood
+11413,14.143,Very Low Likelihood
+11414,2.37,Very Low Likelihood
+11415,2.107,Very Low Likelihood
+11416,7.194,Very Low Likelihood
+11417,32.629,Low Likelihood
+11418,0.467,Very Low Likelihood
+11419,0.742,Very Low Likelihood
+11420,2.624,Very Low Likelihood
+11421,64.389,Medium Likelihood
+11422,3.083,Very Low Likelihood
+11423,1.283,Very Low Likelihood
+11424,0.534,Very Low Likelihood
+11425,63.837,Medium Likelihood
+11426,7.316,Very Low Likelihood
+11427,11.309,Very Low Likelihood
+11428,5.765,Very Low Likelihood
+11429,35.231,Low Likelihood
+11430,1.375,Very Low Likelihood
+11431,1.979,Very Low Likelihood
+11432,0.923,Very Low Likelihood
+11433,68.979,Medium Likelihood
+11434,0.423,Very Low Likelihood
+11435,7.367,Very Low Likelihood
+11436,0.472,Very Low Likelihood
+11437,9.782,Very Low Likelihood
+11438,0.73,Very Low Likelihood
+11439,0.548,Very Low Likelihood
+11440,1.312,Very Low Likelihood
+11441,62.523,Medium Likelihood
+11442,0.347,Very Low Likelihood
+11443,9.649,Very Low Likelihood
+11444,6.343,Very Low Likelihood
+11445,67.931,Medium Likelihood
+11446,6.102,Very Low Likelihood
+11447,5.985,Very Low Likelihood
+11448,0.455,Very Low Likelihood
+11449,32.494,Low Likelihood
+11450,1.644,Very Low Likelihood
+11451,2.283,Very Low Likelihood
+11452,3.933,Very Low Likelihood
+11453,24.487,Very Low Likelihood
+11454,1.786,Very Low Likelihood
+11455,6.882,Very Low Likelihood
+11456,0.236,Very Low Likelihood
+11457,3.163,Very Low Likelihood
+11458,0.647,Very Low Likelihood
+11459,3.346,Very Low Likelihood
+11460,0.814,Very Low Likelihood
+11461,16.445,Very Low Likelihood
+11462,0.85,Very Low Likelihood
+11463,1.43,Very Low Likelihood
+11464,2.964,Very Low Likelihood
+11465,66.105,Medium Likelihood
+11466,0.694,Very Low Likelihood
+11467,4.054,Very Low Likelihood
+11468,0.791,Very Low Likelihood
+11469,49.457,Low Likelihood
+11470,5.915,Very Low Likelihood
+11471,3.82,Very Low Likelihood
+11472,3.096,Very Low Likelihood
+11473,7.857,Very Low Likelihood
+11474,0.573,Very Low Likelihood
+11475,3.326,Very Low Likelihood
+11476,5.33,Very Low Likelihood
+11477,20.377,Very Low Likelihood
+11478,1.199,Very Low Likelihood
+11479,2.344,Very Low Likelihood
+11480,0.277,Very Low Likelihood
+11481,66.008,Medium Likelihood
+11482,8.037,Very Low Likelihood
+11483,1.127,Very Low Likelihood
+11484,1.136,Very Low Likelihood
+11485,25.339,Low Likelihood
+11486,9.593,Very Low Likelihood
+11487,5.825,Very Low Likelihood
+11488,3.05,Very Low Likelihood
+11489,23.918,Very Low Likelihood
+11490,0.634,Very Low Likelihood
+11491,0.363,Very Low Likelihood
+11492,5.128,Very Low Likelihood
+11493,17.076,Very Low Likelihood
+11494,3.939,Very Low Likelihood
+11495,0.893,Very Low Likelihood
+11496,0.384,Very Low Likelihood
+11497,16.744,Very Low Likelihood
+11498,7.851,Very Low Likelihood
+11499,9.416,Very Low Likelihood
+11500,3.847,Very Low Likelihood
+11501,23.089,Very Low Likelihood
+11502,1.661,Very Low Likelihood
+11503,5.052,Very Low Likelihood
+11504,2.448,Very Low Likelihood
+11505,3.591,Very Low Likelihood
+11506,0.344,Very Low Likelihood
+11507,4.197,Very Low Likelihood
+11508,0.951,Very Low Likelihood
+11509,60.492,Medium Likelihood
+11510,1.73,Very Low Likelihood
+11511,0.967,Very Low Likelihood
+11512,0.372,Very Low Likelihood
+11513,12.09,Very Low Likelihood
+11514,0.698,Very Low Likelihood
+11515,4.474,Very Low Likelihood
+11516,4.971,Very Low Likelihood
+11517,50.57,Medium Likelihood
+11518,2.647,Very Low Likelihood
+11519,7.492,Very Low Likelihood
+11520,1.587,Very Low Likelihood
+11521,36.437,Low Likelihood
+11522,2.369,Very Low Likelihood
+11523,1.405,Very Low Likelihood
+11524,0.58,Very Low Likelihood
+11525,15.159,Very Low Likelihood
+11526,0.66,Very Low Likelihood
+11527,0.496,Very Low Likelihood
+11528,6.482,Very Low Likelihood
+11529,12.587,Very Low Likelihood
+11530,0.304,Very Low Likelihood
+11531,0.813,Very Low Likelihood
+11532,0.862,Very Low Likelihood
+11533,35.751,Low Likelihood
+11534,0.706,Very Low Likelihood
+11535,3.358,Very Low Likelihood
+11536,0.413,Very Low Likelihood
+11537,31.237,Low Likelihood
+11538,2.796,Very Low Likelihood
+11539,4.005,Very Low Likelihood
+11540,0.826,Very Low Likelihood
+11541,42.453,Low Likelihood
+11542,14.566,Very Low Likelihood
+11543,1.671,Very Low Likelihood
+11544,0.223,Very Low Likelihood
+11545,40.019,Low Likelihood
+11546,1.808,Very Low Likelihood
+11547,5.151,Very Low Likelihood
+11548,6.649,Very Low Likelihood
+11549,6.757,Very Low Likelihood
+11550,5.053,Very Low Likelihood
+11551,0.437,Very Low Likelihood
+11552,2.717,Very Low Likelihood
+11553,18.098,Very Low Likelihood
+11554,1.014,Very Low Likelihood
+11555,1.748,Very Low Likelihood
+11556,1.273,Very Low Likelihood
+11557,58.733,Medium Likelihood
+11558,0.528,Very Low Likelihood
+11559,5.833,Very Low Likelihood
+11560,2.189,Very Low Likelihood
+11561,4.653,Very Low Likelihood
+11562,0.371,Very Low Likelihood
+11563,2.885,Very Low Likelihood
+11564,0.929,Very Low Likelihood
+11565,8.357,Very Low Likelihood
+11566,8.732,Very Low Likelihood
+11567,7.527,Very Low Likelihood
+11568,4.074,Very Low Likelihood
+11569,29.495,Low Likelihood
+11570,13.522,Very Low Likelihood
+11571,3.717,Very Low Likelihood
+11572,1.652,Very Low Likelihood
+11573,5.049,Very Low Likelihood
+11574,5.479,Very Low Likelihood
+11575,2.425,Very Low Likelihood
+11576,1.551,Very Low Likelihood
+11577,2.708,Very Low Likelihood
+11578,2.62,Very Low Likelihood
+11579,4.986,Very Low Likelihood
+11580,0.954,Very Low Likelihood
+11581,5.805,Very Low Likelihood
+11582,0.261,Very Low Likelihood
+11583,2.543,Very Low Likelihood
+11584,1.917,Very Low Likelihood
+11585,47.428,Low Likelihood
+11586,1.088,Very Low Likelihood
+11587,2.492,Very Low Likelihood
+11588,2.917,Very Low Likelihood
+11589,19.55,Very Low Likelihood
+11590,3.17,Very Low Likelihood
+11591,3.258,Very Low Likelihood
+11592,9.467,Very Low Likelihood
+11593,9.802,Very Low Likelihood
+11594,2.406,Very Low Likelihood
+11595,1.736,Very Low Likelihood
+11596,1.848,Very Low Likelihood
+11597,24.82,Very Low Likelihood
+11598,8.668,Very Low Likelihood
+11599,0.384,Very Low Likelihood
+11600,3.125,Very Low Likelihood
+11601,7.404,Very Low Likelihood
+11602,7.75,Very Low Likelihood
+11603,0.981,Very Low Likelihood
+11604,9.137,Very Low Likelihood
+11605,6.589,Very Low Likelihood
+11606,3.365,Very Low Likelihood
+11607,0.671,Very Low Likelihood
+11608,0.645,Very Low Likelihood
+11609,38.443,Low Likelihood
+11610,0.26,Very Low Likelihood
+11611,0.55,Very Low Likelihood
+11612,1.611,Very Low Likelihood
+11613,48.896,Low Likelihood
+11614,1.485,Very Low Likelihood
+11615,11.803,Very Low Likelihood
+11616,0.256,Very Low Likelihood
+11617,5.53,Very Low Likelihood
+11618,0.679,Very Low Likelihood
+11619,0.687,Very Low Likelihood
+11620,2.739,Very Low Likelihood
+11621,28.017,Low Likelihood
+11622,0.413,Very Low Likelihood
+11623,0.433,Very Low Likelihood
+11624,4.586,Very Low Likelihood
+11625,45.871,Low Likelihood
+11626,0.326,Very Low Likelihood
+11627,11.956,Very Low Likelihood
+11628,4.746,Very Low Likelihood
+11629,4.798,Very Low Likelihood
+11630,7.028,Very Low Likelihood
+11631,1.271,Very Low Likelihood
+11632,6.18,Very Low Likelihood
+11633,73.335,High Likelihood
+11634,0.281,Very Low Likelihood
+11635,0.507,Very Low Likelihood
+11636,3.044,Very Low Likelihood
+11637,5.662,Very Low Likelihood
+11638,4.991,Very Low Likelihood
+11639,5.821,Very Low Likelihood
+11640,5.414,Very Low Likelihood
+11641,50.804,Medium Likelihood
+11642,0.295,Very Low Likelihood
+11643,11.337,Very Low Likelihood
+11644,1.375,Very Low Likelihood
+11645,7.694,Very Low Likelihood
+11646,0.33,Very Low Likelihood
+11647,1.257,Very Low Likelihood
+11648,1.672,Very Low Likelihood
+11649,13.17,Very Low Likelihood
+11650,17.728,Very Low Likelihood
+11651,0.213,Very Low Likelihood
+11652,0.255,Very Low Likelihood
+11653,33.606,Low Likelihood
+11654,1.249,Very Low Likelihood
+11655,0.395,Very Low Likelihood
+11656,2.737,Very Low Likelihood
+11657,3.902,Very Low Likelihood
+11658,0.482,Very Low Likelihood
+11659,1.419,Very Low Likelihood
+11660,1.048,Very Low Likelihood
+11661,38.066,Low Likelihood
+11662,2.581,Very Low Likelihood
+11663,0.546,Very Low Likelihood
+11664,2.525,Very Low Likelihood
+11665,28.203,Low Likelihood
+11666,0.374,Very Low Likelihood
+11667,0.727,Very Low Likelihood
+11668,1.359,Very Low Likelihood
+11669,30.101,Low Likelihood
+11670,5.649,Very Low Likelihood
+11671,15.632,Very Low Likelihood
+11672,1.386,Very Low Likelihood
+11673,27.111,Low Likelihood
+11674,2.494,Very Low Likelihood
+11675,0.292,Very Low Likelihood
+11676,0.352,Very Low Likelihood
+11677,8.648,Very Low Likelihood
+11678,0.447,Very Low Likelihood
+11679,10.084,Very Low Likelihood
+11680,1.286,Very Low Likelihood
+11681,13.67,Very Low Likelihood
+11682,1.402,Very Low Likelihood
+11683,5.456,Very Low Likelihood
+11684,0.692,Very Low Likelihood
+11685,18.773,Very Low Likelihood
+11686,1.286,Very Low Likelihood
+11687,0.378,Very Low Likelihood
+11688,9.383,Very Low Likelihood
+11689,14.237,Very Low Likelihood
+11690,0.716,Very Low Likelihood
+11691,4.514,Very Low Likelihood
+11692,0.589,Very Low Likelihood
+11693,25.883,Low Likelihood
+11694,1.23,Very Low Likelihood
+11695,2.451,Very Low Likelihood
+11696,1.415,Very Low Likelihood
+11697,14.052,Very Low Likelihood
+11698,1.278,Very Low Likelihood
+11699,1.385,Very Low Likelihood
+11700,1.235,Very Low Likelihood
+11701,33.999,Low Likelihood
+11702,0.317,Very Low Likelihood
+11703,11.556,Very Low Likelihood
+11704,6.433,Very Low Likelihood
+11705,23.869,Very Low Likelihood
+11706,2.478,Very Low Likelihood
+11707,1.557,Very Low Likelihood
+11708,6.87,Very Low Likelihood
+11709,44.55,Low Likelihood
+11710,1.378,Very Low Likelihood
+11711,0.735,Very Low Likelihood
+11712,1.865,Very Low Likelihood
+11713,36.162,Low Likelihood
+11714,2.643,Very Low Likelihood
+11715,2.38,Very Low Likelihood
+11716,0.384,Very Low Likelihood
+11717,26.072,Low Likelihood
+11718,2.831,Very Low Likelihood
+11719,7.164,Very Low Likelihood
+11720,0.791,Very Low Likelihood
+11721,3.83,Very Low Likelihood
+11722,3.115,Very Low Likelihood
+11723,5.004,Very Low Likelihood
+11724,3.088,Very Low Likelihood
+11725,21.724,Very Low Likelihood
+11726,0.242,Very Low Likelihood
+11727,0.901,Very Low Likelihood
+11728,0.551,Very Low Likelihood
+11729,22.033,Very Low Likelihood
+11730,3.562,Very Low Likelihood
+11731,3.66,Very Low Likelihood
+11732,1.987,Very Low Likelihood
+11733,44.395,Low Likelihood
+11734,0.534,Very Low Likelihood
+11735,3.203,Very Low Likelihood
+11736,2.065,Very Low Likelihood
+11737,33.105,Low Likelihood
+11738,6.564,Very Low Likelihood
+11739,3.317,Very Low Likelihood
+11740,2.516,Very Low Likelihood
+11741,20.383,Very Low Likelihood
+11742,0.225,Very Low Likelihood
+11743,6.49,Very Low Likelihood
+11744,0.367,Very Low Likelihood
+11745,30.36,Low Likelihood
+11746,2.846,Very Low Likelihood
+11747,1.716,Very Low Likelihood
+11748,0.747,Very Low Likelihood
+11749,68.039,Medium Likelihood
+11750,13.222,Very Low Likelihood
+11751,1.845,Very Low Likelihood
+11752,0.509,Very Low Likelihood
+11753,25.656,Low Likelihood
+11754,0.639,Very Low Likelihood
+11755,1.428,Very Low Likelihood
+11756,4.005,Very Low Likelihood
+11757,12.149,Very Low Likelihood
+11758,1.297,Very Low Likelihood
+11759,0.426,Very Low Likelihood
+11760,6.024,Very Low Likelihood
+11761,32.037,Low Likelihood
+11762,6.956,Very Low Likelihood
+11763,7.175,Very Low Likelihood
+11764,1.018,Very Low Likelihood
+11765,14.165,Very Low Likelihood
+11766,4.821,Very Low Likelihood
+11767,0.222,Very Low Likelihood
+11768,3.079,Very Low Likelihood
+11769,4.57,Very Low Likelihood
+11770,1.218,Very Low Likelihood
+11771,1.888,Very Low Likelihood
+11772,1.185,Very Low Likelihood
+11773,2.987,Very Low Likelihood
+11774,0.694,Very Low Likelihood
+11775,0.967,Very Low Likelihood
+11776,0.366,Very Low Likelihood
+11777,21.069,Very Low Likelihood
+11778,0.857,Very Low Likelihood
+11779,2.128,Very Low Likelihood
+11780,0.276,Very Low Likelihood
+11781,26.009,Low Likelihood
+11782,0.28,Very Low Likelihood
+11783,0.917,Very Low Likelihood
+11784,2.993,Very Low Likelihood
+11785,8.246,Very Low Likelihood
+11786,0.217,Very Low Likelihood
+11787,0.414,Very Low Likelihood
+11788,1.333,Very Low Likelihood
+11789,25.476,Low Likelihood
+11790,2.362,Very Low Likelihood
+11791,1.461,Very Low Likelihood
+11792,0.669,Very Low Likelihood
+11793,3.869,Very Low Likelihood
+11794,0.162,Very Low Likelihood
+11795,6.566,Very Low Likelihood
+11796,1.35,Very Low Likelihood
+11797,7.16,Very Low Likelihood
+11798,5.911,Very Low Likelihood
+11799,1.087,Very Low Likelihood
+11800,6.599,Very Low Likelihood
+11801,43.74,Low Likelihood
+11802,5.197,Very Low Likelihood
+11803,0.607,Very Low Likelihood
+11804,1.427,Very Low Likelihood
+11805,39.531,Low Likelihood
+11806,2.076,Very Low Likelihood
+11807,2.192,Very Low Likelihood
+11808,0.189,Very Low Likelihood
+11809,11.151,Very Low Likelihood
+11810,4.977,Very Low Likelihood
+11811,0.388,Very Low Likelihood
+11812,0.951,Very Low Likelihood
+11813,42.716,Low Likelihood
+11814,0.689,Very Low Likelihood
+11815,0.918,Very Low Likelihood
+11816,1.88,Very Low Likelihood
+11817,53.148,Medium Likelihood
+11818,0.918,Very Low Likelihood
+11819,1.305,Very Low Likelihood
+11820,3.571,Very Low Likelihood
+11821,5.399,Very Low Likelihood
+11822,1.415,Very Low Likelihood
+11823,2.783,Very Low Likelihood
+11824,0.299,Very Low Likelihood
+11825,12.576,Very Low Likelihood
+11826,2.921,Very Low Likelihood
+11827,0.717,Very Low Likelihood
+11828,0.5,Very Low Likelihood
+11829,9.656,Very Low Likelihood
+11830,0.879,Very Low Likelihood
+11831,4.704,Very Low Likelihood
+11832,2.397,Very Low Likelihood
+11833,15.087,Very Low Likelihood
+11834,0.563,Very Low Likelihood
+11835,2.544,Very Low Likelihood
+11836,7.105,Very Low Likelihood
+11837,4.957,Very Low Likelihood
+11838,1.701,Very Low Likelihood
+11839,11.915,Very Low Likelihood
+11840,3.992,Very Low Likelihood
+11841,62.735,Medium Likelihood
+11842,0.307,Very Low Likelihood
+11843,6.178,Very Low Likelihood
+11844,0.172,Very Low Likelihood
+11845,6.243,Very Low Likelihood
+11846,7.728,Very Low Likelihood
+11847,0.711,Very Low Likelihood
+11848,0.764,Very Low Likelihood
+11849,4.296,Very Low Likelihood
+11850,0.668,Very Low Likelihood
+11851,9.548,Very Low Likelihood
+11852,0.163,Very Low Likelihood
+11853,21.865,Very Low Likelihood
+11854,1.65,Very Low Likelihood
+11855,1.867,Very Low Likelihood
+11856,5.263,Very Low Likelihood
+11857,7.986,Very Low Likelihood
+11858,2.231,Very Low Likelihood
+11859,6.515,Very Low Likelihood
+11860,1.341,Very Low Likelihood
+11861,39.281,Low Likelihood
+11862,2.888,Very Low Likelihood
+11863,0.479,Very Low Likelihood
+11864,0.46,Very Low Likelihood
+11865,27.67,Low Likelihood
+11866,0.52,Very Low Likelihood
+11867,0.127,Very Low Likelihood
+11868,0.656,Very Low Likelihood
+11869,36.127,Low Likelihood
+11870,0.471,Very Low Likelihood
+11871,7.875,Very Low Likelihood
+11872,4.568,Very Low Likelihood
+11873,40.785,Low Likelihood
+11874,0.635,Very Low Likelihood
+11875,0.515,Very Low Likelihood
+11876,0.144,Very Low Likelihood
+11877,10.628,Very Low Likelihood
+11878,1.82,Very Low Likelihood
+11879,0.326,Very Low Likelihood
+11880,2.139,Very Low Likelihood
+11881,61.842,Medium Likelihood
+11882,1.122,Very Low Likelihood
+11883,7.695,Very Low Likelihood
+11884,0.552,Very Low Likelihood
+11885,38.355,Low Likelihood
+11886,0.736,Very Low Likelihood
+11887,5.345,Very Low Likelihood
+11888,2.265,Very Low Likelihood
+11889,6.947,Very Low Likelihood
+11890,0.874,Very Low Likelihood
+11891,0.884,Very Low Likelihood
+11892,0.915,Very Low Likelihood
+11893,16.149,Very Low Likelihood
+11894,2.798,Very Low Likelihood
+11895,0.315,Very Low Likelihood
+11896,0.825,Very Low Likelihood
+11897,6.389,Very Low Likelihood
+11898,1.019,Very Low Likelihood
+11899,7.259,Very Low Likelihood
+11900,0.836,Very Low Likelihood
+11901,53.64,Medium Likelihood
+11902,0.292,Very Low Likelihood
+11903,2.548,Very Low Likelihood
+11904,7.971,Very Low Likelihood
+11905,45.771,Low Likelihood
+11906,3.776,Very Low Likelihood
+11907,0.613,Very Low Likelihood
+11908,1.213,Very Low Likelihood
+11909,61.394,Medium Likelihood
+11910,0.263,Very Low Likelihood
+11911,7.636,Very Low Likelihood
+11912,0.223,Very Low Likelihood
+11913,30.37,Low Likelihood
+11914,0.137,Very Low Likelihood
+11915,2.413,Very Low Likelihood
+11916,9.031,Very Low Likelihood
+11917,6.149,Very Low Likelihood
+11918,1.331,Very Low Likelihood
+11919,1.726,Very Low Likelihood
+11920,8.014,Very Low Likelihood
+11921,25.478,Low Likelihood
+11922,0.168,Very Low Likelihood
+11923,6.613,Very Low Likelihood
+11924,0.36,Very Low Likelihood
+11925,17.057,Very Low Likelihood
+11926,0.283,Very Low Likelihood
+11927,10.39,Very Low Likelihood
+11928,0.664,Very Low Likelihood
+11929,2.245,Very Low Likelihood
+11930,0.748,Very Low Likelihood
+11931,0.366,Very Low Likelihood
+11932,0.928,Very Low Likelihood
+11933,12.68,Very Low Likelihood
+11934,1.263,Very Low Likelihood
+11935,3.507,Very Low Likelihood
+11936,2.294,Very Low Likelihood
+11937,28.428,Low Likelihood
+11938,0.366,Very Low Likelihood
+11939,2.652,Very Low Likelihood
+11940,0.369,Very Low Likelihood
+11941,7.908,Very Low Likelihood
+11942,0.821,Very Low Likelihood
+11943,0.339,Very Low Likelihood
+11944,1.829,Very Low Likelihood
+11945,56.861,Medium Likelihood
+11946,1.441,Very Low Likelihood
+11947,1.074,Very Low Likelihood
+11948,4.249,Very Low Likelihood
+11949,43.47,Low Likelihood
+11950,4.556,Very Low Likelihood
+11951,8.306,Very Low Likelihood
+11952,0.482,Very Low Likelihood
+11953,36.814,Low Likelihood
+11954,1.83,Very Low Likelihood
+11955,4.497,Very Low Likelihood
+11956,7.267,Very Low Likelihood
+11957,40.191,Low Likelihood
+11958,7.474,Very Low Likelihood
+11959,1.951,Very Low Likelihood
+11960,1.024,Very Low Likelihood
+11961,26.663,Low Likelihood
+11962,11.689,Very Low Likelihood
+11963,2.187,Very Low Likelihood
+11964,0.677,Very Low Likelihood
+11965,30.536,Low Likelihood
+11966,6.607,Very Low Likelihood
+11967,1.049,Very Low Likelihood
+11968,1.208,Very Low Likelihood
+11969,8.146,Very Low Likelihood
+11970,0.217,Very Low Likelihood
+11971,1.31,Very Low Likelihood
+11972,1.713,Very Low Likelihood
+11973,56.391,Medium Likelihood
+11974,0.461,Very Low Likelihood
+11975,1.041,Very Low Likelihood
+11976,3.976,Very Low Likelihood
+11977,1.731,Very Low Likelihood
+11978,6.426,Very Low Likelihood
+11979,0.373,Very Low Likelihood
+11980,0.339,Very Low Likelihood
+11981,10.738,Very Low Likelihood
+11982,1.106,Very Low Likelihood
+11983,1.759,Very Low Likelihood
+11984,2.576,Very Low Likelihood
+11985,7.983,Very Low Likelihood
+11986,0.117,Very Low Likelihood
+11987,0.533,Very Low Likelihood
+11988,0.927,Very Low Likelihood
+11989,25.065,Low Likelihood
+11990,0.577,Very Low Likelihood
+11991,2.626,Very Low Likelihood
+11992,2.922,Very Low Likelihood
+11993,36.265,Low Likelihood
+11994,0.522,Very Low Likelihood
+11995,1.47,Very Low Likelihood
+11996,1.483,Very Low Likelihood
+11997,33.844,Low Likelihood
+11998,0.3,Very Low Likelihood
+11999,0.447,Very Low Likelihood
+12000,1.094,Very Low Likelihood
